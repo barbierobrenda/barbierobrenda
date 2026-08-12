@@ -1,10 +1,8 @@
 <div align="center">
 
-# Brenda Barbiero 🦇
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Brenda%20Barbiero&fontAlign=50&fontAlignY=40&desc=Analista%20de%20Sistemas%20%E2%80%A2%20Desenvolvedora&descAlign=50&descAlignY=63&color=0:0f0b14,35:24111f,70:4b1022,100:12080f&fontColor=f8e8ef" />
 
-### Analista de Sistemas • Desenvolvedora
-
-`Delphi` • `Firebird` • `SQL` • `JavaScript` • `PHP` • `Web / PWA`
+### `Delphi` • `Firebird` • `SQL` • `JavaScript` • `PHP` • `Web / PWA`
 
 </div>
 
